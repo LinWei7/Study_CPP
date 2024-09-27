@@ -10,7 +10,7 @@ int main()
 
 	// 把 now 转换为字符串形式
 	char* dt = ctime(&now);
-
+	
 	cout << "本地日期和时间：" << dt << endl;
 
 	// 把 now 转换为 tm 结构
