@@ -123,6 +123,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="time_01.cpp" />
     <ClCompile Include="yinyong_01.cpp" />
     <ClCompile Include="yinyong_02.cpp" />
   </ItemGroup>
